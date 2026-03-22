@@ -12,3 +12,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Tidied up project structure
 - Fixed off-by-one error in loop
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
